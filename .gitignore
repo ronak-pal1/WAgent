@@ -1,0 +1,23 @@
+# Node Modules
+node_modules
+client/node_modules
+servers/main/node_modules
+
+# IDE
+.idea
+.vscode
+
+# envs
+.env
+.env.example
+client/.env
+servers/main/.env
+servers/agent/.env
+
+# dist
+client/dist
+servers/main/dist
+servers/agent/dist
+
+
+
