@@ -1,4 +1,4 @@
-#WAgent
+# WAgent
 
 WAgent is a platform where user can create a whatsapp agent for themselves or use one of our prebuilt agents.
 

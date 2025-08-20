@@ -14,6 +14,10 @@ client/.env
 servers/main/.env
 servers/agent/.env
 
+# venv
+servers/agent/venv
+
+
 # dist
 client/dist
 servers/main/dist
