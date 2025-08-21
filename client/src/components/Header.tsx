@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 const Header = () => {
   const navigate = useNavigate();
   return (
-    <header className="bg-gradient-to-r from-green-500 to-green-600 shadow-lg">
+    <header className="bg-gradient-to-r from-green-500 to-green-400 shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between py-4">
           {/* Logo and Brand */}
